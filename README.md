@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=300&section=header&text=Dhriti%20Gandhi&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Backend%20Systems%20%26%20AI%20Solutions&descAlignY=55&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dhriti%20Gandhi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Backend%20Systems%20%26%20AI%20Solutions&descAlignY=55&descSize=20)
 
 <div align="center">
 
@@ -61,14 +61,6 @@ I am a **pre-final year CS student** at MSU Baroda with a focus on **backend arc
 </div>
 
 ---
-
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
 
 <div align="center">
   <sub><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></sub>
