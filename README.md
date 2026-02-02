@@ -36,12 +36,11 @@ I am a **pre-final year CS student** at MSU Baroda with a focus on **backend arc
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+
 **Tools & Cloud:**
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
 
 ---
 
@@ -60,16 +59,16 @@ I am a **pre-final year CS student** at MSU Baroda with a focus on **backend arc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhriti-5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhriti-5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhriti-5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhriti-5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhriti-5&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhriti-5&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
 </div>
 
 ---
