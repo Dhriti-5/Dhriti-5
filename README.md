@@ -53,8 +53,6 @@ I am a passionate computer science student at **Faculty of Technology, MSU Barod
 ---
 
 ### 🎯 Goals & Interests
-
-* **Google Summer of Code (GSoC):** Actively exploring contributions to open-source organizations like **Apache** and **Checkstyle**.
 * **DSA Proficiency:** Consistently solving problems on **LeetCode** and **InterviewBit**, following the Striver A2Z sheet.
 * **Backend Engineering:** Committed to mastering the Spring ecosystem and system design.
 
