@@ -1,72 +1,75 @@
-# Hi there, I'm Dhriti Gandhi! 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=300&section=header&text=Dhriti%20Gandhi&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Backend%20Systems%20%26%20AI%20Solutions&descAlignY=55&descSize=25)
 
-### 🎓 3rd Year CS Student | ☕ Java & Backend Developer | 🤖 AI/ML Enthusiast
+<div align="center">
 
-I am a passionate computer science student at **Faculty of Technology, MSU Baroda**, focusing on building robust backend systems and integrating AI solutions into real-world applications. I am also a **Core Committee Member** of the university coding club, **Code Vimarsh**, where I help organize coding rounds and technical events.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=3rd+Year+Computer+Science+Student;Core+Member+%40+Code+Vimarsh;Java+%26+Spring+Boot+Developer;Building+LexiGuard+%26+StockSense" alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Dhriti-5&label=Profile%20Views&color=blue&style=flat" alt="Dhriti-5" />
+</p>
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ About Me
 
-**Languages & Core:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
+I am a **pre-final year CS student** at MSU Baroda with a focus on **backend architecture** and **AI/ML**. I love solving complex problems, whether it's optimizing Java code or training ML models for stock prediction.
 
-**Backend & Frameworks:**
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+* 🔭 I’m currently building **LexiGuard** (Legal Tech Startup Idea).
+* 🌱 I’m mastering **Advanced Java & Microservices**.
+* 👯 I’m looking to contribute to **Apache** & **Checkstyle** for GSoC.
+* ⚡ **Fun fact:** I built a local desktop assistant named **Ora** because cloud APIs were too expensive!
 
-**Tools & Cloud:**
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,tensorflow,androidstudio,selenium,mysql,git,linux,idea,vscode&perline=6&theme=dark" />
+</div>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### ⚖️ **LexiGuard** (Startup Initiative)
-> *AI-Powered Legal Assistant & Risk Detector*
-* **Focus:** Legal Tech, SaaS, GenAI
-* **Status:** Pre-Incubation (Targeting SSIP Gujarat Policy)
-* An intelligent platform designed to democratize legal understanding for freelancers and MSMEs. It uses **RAG architecture** and **Sovereign LLMs** (like Llama-3) to analyze contracts, detect risks, and summarize legal jargon into plain language, all while ensuring DPDP compliance.
-
-#### 📈 **StockSense**
-> *AI-Driven Stock Price Prediction*
-* **Highlight:** 🏆 **3rd Rank** in University Hackathon
-* **Tech:** Python, TensorFlow, Keras, LSTM
-* A predictive analysis tool for stock market trends. I developed the core ML models using historical data to forecast stock prices, helping users make data-backed trading decisions.
-
-#### 📢 **JAN-HAQ**
-> *Civic Awareness & Rights Platform*
-* **Tech:** Java, Android (XML), Firebase
-* A digital initiative focused on empowering citizens by providing easy access to information regarding their constitutional rights and legal aids.
-*(Note: Please update the specific tech stack/details for this project if different!)*
-
-#### 🤖 **Ora** (Personal Productivity Tool)
-> *Local Meeting Assistant*
-* **Tech:** Java, Selenium
-* A desktop automation tool designed for personal productivity. A local-first approach to manage meeting automation and tasks efficiently on my own machine.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **⚖️ LexiGuard** | **(Startup Initiative)** An AI-powered legal assistant reducing contract risks for freelancers. Targeting SSIP Funding. | `GenAI` `RAG` `LLMs` `Python` |
+| **📈 StockSense** | **(Hackathon Winner)** Stock price prediction engine using LSTM models. Ranked **3rd** in University Hackathon. | `TensorFlow` `Keras` `Python` |
+| **📢 JAN-HAQ** | **(Civic Tech)** A platform empowering citizens with easy access to constitutional rights and legal aid info. | `Android` `Java` `Firebase` |
+| **🤖 Ora** | **(Productivity)** A local desktop automation bot for managing meetings and tasks without cloud costs. | `Java` `Selenium` |
 
 ---
 
-### 🎯 Goals & Interests
-* **DSA Proficiency:** Consistently solving problems on **LeetCode** and **InterviewBit**, following the Striver A2Z sheet.
-* **Backend Engineering:** Committed to mastering the Spring ecosystem and system design.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dhriti-5&show_icons=true&theme=radical" alt="Dhriti-5" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhriti-5&theme=radical" alt="Dhriti-5" />
-</p>
-
----
+### 📊 GitHub Analytics
 
 <div align="center">
-  <p><i>Open to opportunities in Backend Development (Java/Spring) and AI/ML.</i></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dhriti-5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhriti-5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhriti-5&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div align="center">
+  <sub><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></sub>
 </div>
