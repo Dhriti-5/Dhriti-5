@@ -1,9 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dhriti%20Gandhi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Backend%20Systems%20%26%20AI%20Solutions&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dhriti%20Gandhi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Backend%20Systems%20and%20AI%20Solutions&descAlignY=55&descSize=20)
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=3rd+Year+Computer+Science+Student;Core+Member+%40+Code+Vimarsh;Java+%26+Spring+Boot+Developer;Building+LexiGuard+%26+StockSense" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=3rd+Year+Computer+Science+Student;Core+Member+%40+Code+Vimarsh;Java+and+Spring+Boot+Developer;Building+LexiGuard+and+StockSense" alt="Typing SVG" />
 </a>
 
 <p>
