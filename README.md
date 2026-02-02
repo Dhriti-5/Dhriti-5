@@ -20,7 +20,6 @@ I am a **pre-final year CS student** at MSU Baroda with a focus on **backend arc
 
 * 🔭 I’m currently building **LexiGuard** (Legal Tech Startup Idea).
 * 🌱 I’m mastering **Advanced Java & Microservices**.
-* 👯 I’m looking to contribute to **Apache** & **Checkstyle** for GSoC.
 * ⚡ **Fun fact:** I built a local desktop assistant named **Ora** because cloud APIs were too expensive!
 
 ---
