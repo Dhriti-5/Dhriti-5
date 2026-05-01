@@ -40,20 +40,20 @@
 
 ## 🔥 Top Repositories
 
-| 🤖 [**Inclusive Meeting Assistance**](https://github.com/Dhriti-5/inclusive-meeting-assistance) | 🛡️ [**Lexiguard**](https://github.com/Dhriti-5/lexiguard) |
+| 🤖 [**Inclusive Meeting Assistance**](https://github.com/Dhriti-5/inclusive-meeting-assistant) | 🛡️ [**Lexiguard**](https://github.com/Dhriti-5/Lexiguard) |
 | :--- | :--- |
-| AI bot that automates Google Meet transcriptions, summaries, and action items using Whisper and Pyannote. | *(Add a quick 1-sentence description here of what this does)* |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> |
+| AI bot that automates Google Meet transcriptions, summaries, and action items using Whisper and Pyannote. | LexiGuard is our hackathon project that aims to democratize legal understanding. It helps users break down dense, jargon-heavy contracts into clear, actionable insights, while highlighting potential risks and fairness issues. |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /> |
 
-| ☁️ [**J-Cloud**](https://github.com/Dhriti-5/J-Cloud) | ⚖️ [**JAN-HAQ**](https://github.com/Dhriti-5/JAN-HAQ) |
+| ☁️ [**J-Cloud**](https://github.com/DishaVaghela906/J-Cloud) | ⚖️ [**JAN-HAQ**](https://github.com/krishagandhi0711/JAN-HAQ) |
 | :--- | :--- |
-| *(Add a quick 1-sentence description here of what this does)* | *(Add a quick 1-sentence description here of what this does)* |
-| <img src="https://img.shields.io/badge/Cloud-0089D6?style=flat-square&logo=googlecloud&logoColor=white" /> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> |
+| J-Cloud is a production-ready distributed object storage system inspired by HDFS and AWS S3, built with scalable Java patterns including thread pools, connection pooling, and asynchronous scheduled tasks. | This project includes a backend server (Node.js + Express) and a React frontend for legal explanations and knowledge-based search. |
+|<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
 
-| 📡 [**Sanchar-optimize**](https://github.com/Dhriti-5/Sanchar-optimize) |
+| 📡 [**Sanchar-optimize**](https://github.com/Dhriti-5/Sanchar-Optimize) |
 | :--- |
-| *(Add a quick 1-sentence description here of what this does)* |
-| <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
+| Sanchar-Optimize employs true agentic behavior with predictive intelligence. The system:<br><br>• Predicts network signal drops before they occur using GPS velocity and historical patterns<br>• Proactively transforms content modality: Video → Audio → AI-Generated Summary<br>• Maintains continuity with Zero-Buffer experience and contextual memory<br><br>Unlike reactive ABR, Sanchar-Optimize uses AI agents powered by Amazon Bedrock to make intelligent, context-aware decisions about content adaptation. |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
 
 ---
 
