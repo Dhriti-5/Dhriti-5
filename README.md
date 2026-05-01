@@ -35,27 +35,30 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+
 ---
 
 ## 🔥 Top Repositories
 
-<div align="center">
-  [![Lexiguard](https://github-readme-stats.vercel.app/api/pin/?username=Dhriti-5&repo=lexiguard&theme=tokyonight)](https://github.com/Dhriti-5/lexiguard)
-  [![Inclusive Meeting Assistance](https://github-readme-stats.vercel.app/api/pin/?username=Dhriti-5&repo=inclusive-meeting-assistance&theme=tokyonight)](https://github.com/Dhriti-5/inclusive-meeting-assistance)
-</div>
-<div align="center">
-  [![J-Cloud](https://github-readme-stats.vercel.app/api/pin/?username=Dhriti-5&repo=J-Cloud&theme=tokyonight)](https://github.com/Dhriti-5/J-Cloud)
-  [![JAN-HAQ](https://github-readme-stats.vercel.app/api/pin/?username=Dhriti-5&repo=JAN-HAQ&theme=tokyonight)](https://github.com/Dhriti-5/JAN-HAQ)
-</div>
-<div align="center">
-  [![Sanchar-optimize](https://github-readme-stats.vercel.app/api/pin/?username=Dhriti-5&repo=Sanchar-optimize&theme=tokyonight)](https://github.com/Dhriti-5/Sanchar-optimize)
-</div>
+| 🤖 [**Inclusive Meeting Assistance**](https://github.com/Dhriti-5/inclusive-meeting-assistance) | 🛡️ [**Lexiguard**](https://github.com/Dhriti-5/lexiguard) |
+| :--- | :--- |
+| AI bot that automates Google Meet transcriptions, summaries, and action items using Whisper and Pyannote. | *(Add a quick 1-sentence description here of what this does)* |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> |
+
+| ☁️ [**J-Cloud**](https://github.com/Dhriti-5/J-Cloud) | ⚖️ [**JAN-HAQ**](https://github.com/Dhriti-5/JAN-HAQ) |
+| :--- | :--- |
+| *(Add a quick 1-sentence description here of what this does)* | *(Add a quick 1-sentence description here of what this does)* |
+| <img src="https://img.shields.io/badge/Cloud-0089D6?style=flat-square&logo=googlecloud&logoColor=white" /> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> |
+
+| 📡 [**Sanchar-optimize**](https://github.com/Dhriti-5/Sanchar-optimize) |
+| :--- |
+| *(Add a quick 1-sentence description here of what this does)* |
+| <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  [![Dhriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhriti-5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/Dhriti-5)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhriti-5&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Dhriti-5)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhriti-5&theme=tokyonight&hide_border=true" alt="Dhriti's GitHub Streak" />
 </div>
